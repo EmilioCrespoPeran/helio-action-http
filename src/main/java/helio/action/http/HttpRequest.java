@@ -9,7 +9,7 @@ import helio.blueprints.exceptions.ActionException;
 import java.util.HashMap;
 import java.util.Map;
 
-public class HttpRequestAction implements Action {
+public class HttpRequest implements Action {
 
 	public static final String TAG = "HttpRequest";
 
